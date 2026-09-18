@@ -1,0 +1,6 @@
+{
+  "name": "YatraSafar Holidays & Fixed Departures",
+  "description": "Holiday packages booking portal for domestic & international trips, flight fixed departures, referral rewards, admin control, and real-time customer assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
